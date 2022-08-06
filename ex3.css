@@ -1,0 +1,176 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.h1{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    
+}
+.m{
+    background-image: url(https://www.karunya.edu/img/general/aerial-view.jpg.pagespeed.ce.4_-R-b0nuM.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+
+}
+
+.d1{
+    padding: 20px;
+    background-color:antiquewhite;
+    text-align:justify;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.d1 .h2{
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.m1{
+    background-image: url(https://admissions.karunya.edu/sites/admissions/files/uploads/images/why/xspl-areo-lab.jpg.pagespeed.ic.Oe40nZoVV5.jpg);
+    background-size: cover;
+    width: 34%;
+    height: 300px;
+    float: left;
+}
+.m2{
+    background-image: url(https://admissions.karunya.edu/sites/admissions/files/uploads/images/why/xspl-lab.jpg.pagespeed.ic.HoQgZ7JESu.jpg);
+    background-size: cover;
+    width: 33%;
+    height: 300px;
+    float: right;
+}
+.m3{
+    background-image: url(https://admissions.karunya.edu/sites/admissions/files/uploads/images/why/xspl-multimedia-lab.jpg.pagespeed.ic.rgURDQm8SW.jpg);
+    background-size: cover;
+    width: 33%;
+    height: 300px;
+    float: right;
+}
+.h{
+    opacity: 0.5;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 30px;
+}
+.h:hover{
+    opacity: 1;
+    background-color: blue;
+}
+.d2{
+    width: 50%;
+    height: 300px;
+    background-color:antiquewhite;
+    float: left;
+}
+.d2 .h3{
+    text-align: left;
+    padding-top: 10%;
+    padding-left: 5%;
+    box-sizing: border-box;
+}
+.d2 .p{
+    text-align: justify;
+    padding: 20px;
+    padding-left: 5%;
+    box-sizing: border-box;
+}
+.m4{
+    background-image: url(https://karunya.edu/sites/default/files/img/site/campus-life/front-campus-life-1.jpg);
+    background-size: cover;
+    width: 50%;
+    height: 300px;
+    float: right;
+}
+
+.d3{
+    width: 50%;
+    float: left;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Green_Grass.JPG/1280px-Green_Grass.JPG);
+    background-size: cover;
+    height: 400px;
+    box-sizing: border-box;
+}
+
+.d3 .f1{
+    background-color: white;
+    width: 400px;
+    height: 350px;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+    box-sizing: border-box;
+}
+.d3 .u{
+    font-size: 20px;
+    padding: 10px;
+    
+}
+.d3 .p2{
+    font-size: 20px;
+    padding: 10px;
+}
+.d3 .l{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 10px;
+}
+input{
+    color: black;
+    background-color: rgb(228, 228, 228);
+    border-radius: 5px;
+    width: 90%;
+    font-size: 20px;
+    padding: 10px;
+}
+input[type="text"]:focus{
+    color: black;
+    background-color: white;
+    border: 2px solid blue;
+    border-radius: 5px;
+    
+}
+input[type="password"]:focus{
+    color: black;
+    background-color: white;
+    border: 2px solid blue;
+    border-radius: 5px;
+
+}
+input[type="submit"]{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+
+}
+
+
+.d4{
+    width: 50%;
+    height: 400px;
+    background-color:antiquewhite;
+    float: right;
+    
+
+}
+.d4 .h4{
+    text-align: left;
+    padding-top: 10%;
+    padding-left: 5%;
+    box-sizing: border-box;
+}
+.d4 .p4{
+    text-align: justify;
+    padding: 20px;
+    padding-left: 5%;
+    box-sizing: border-box;
+}
